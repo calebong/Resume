@@ -1,0 +1,27 @@
+* {
+  /* Override default margins*/
+  --pagedjs-margin-right: 0.15in;
+  --pagedjs-margin-left: 0.15in;
+  --pagedjs-margin-top: 0.15in;
+  --pagedjs-margin-bottom: 0.15in;
+}
+
+
+:root{
+  --sidebar-width: 12.9rem; /* side bar width */
+  --sidebar-background-color: #D3D3D3;
+
+}
+
+.decorator::after{
+  background-color: ##D3D3D3; /* change color timeline dots */
+
+}
+
+
+/* Define the font family here */
+body{
+  font-family: "Roboto", sans-serif;
+
+}
+
