@@ -1,0 +1,146 @@
+---
+title: "Caleb's resume"
+author: Caleb Ong
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: 
+      - resume.css         # OVERIDE CERTAIN FUNCTIONS OF CSS
+      - resume               # DEFAULT FILE
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+<font size="2">Contact Information</font> {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> calebongjunyi@gmail.com
+- <i class="fa fa-phone"></i> [+65 9220 6931](\\)
+- <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/caleb-ong-frm-caia)
+- <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/calebong)
+
+For more information, please feel free to reach out.
+
+<font size="2">Proficiencies</font> {#skills}
+--------------------------------------------------------------------------------
+
+* <i class="fa fa-keyboard"></i> Programming Languages:
+  - R 
+  
+* <i class="fa fa-database"></i> Data Analysis Skills:
+  - Data Extraction
+  - Data Manipulation
+  - Data Visualization
+  - Large Datasets Handling
+  - Web Data Scraping
+  - Sentiment Analysis
+  
+* <i class="fa fa-wrench"></i> Quantitative Skills:
+  - Statistical Modelling
+  - Portfolio Optimization
+  - Performance Attribution
+  - Monte Carlo Simulation
+  - Time Series Analysis
+  - GARCH Modelling
+  
+  
+* <i class="fa fa-desktop"></i> Software Applications:
+  - RStudio IDE
+  - Bloomberg 
+  - FE FundInfo
+
+Main
+================================================================================
+
+<font size="4">Caleb Ong Jun Yi, FRM, CAIA</font> {#title}
+--------------------------------------------------------------------------------
+
+### Experienced in investment and financial data analytics and analysis.
+
+- Chartered Financial Analyst (CFA®) Program – Passed Level II, Level III candidate (exam date: Nov 2021)
+- Financial Risk Manager (FRM)
+- Chartered Alternative Investment Analyst (CAIA)
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Bachelor of Accountancy (Hons)
+
+Nanyang Business School, Nanyang Technological University
+
+N/A
+
+2015 Jul - 2018 Jul
+
+- Attained the Nanyang Business School Professional Attachment Book Prize in 2017 for best overall performance for the degree of
+Bachelor of Accountancy
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Investment Data Analyst
+
+PromiseLand Independent Financial Advisers Pte Ltd
+
+N/A
+
+2018 Sep - Present
+
+- Explore and develop new ways to work with data relating to financial modelling and investment research
+- Contribute investment and financial specialist knowledge as a subject matter expert where required, using data driven approaches
+- Conduct research on global markets to identify thematic investment ideas and strategies for investment products (ETFs, Unit Trusts, Stocks)
+- Formulate investment insights that incorporate market updates, market risk analyses, and house views
+- Work directly with the Director of Investments in overseeing AUA of over SGD $250M
+- Conduct portfolio optimization across multiple and within single asset classes, subject to investment objectives and constraints
+- Co-manage the company’s portfolio allocation model (globally diversified synthetic Fund-of-Funds)
+
+
+#### Key Projects/Responsibilities
+
+
+- Creator and maintainer of proprietary bottom-up fundamental financial models to set target prices of US listed equities [(https://git.io/JD8RZ)](https://git.io/JD8RZ)
+- Creator and maintainer of econometric models to forecast market and sector trends [(https://git.io/JD8Bo)](https://git.io/JD8Bo)
+- Creator and maintainer of options gamma data models to quantify dealer market gamma exposure for market risk monitoring [(https://git.io/JD8Rw)](https://git.io/JD8Rw)
+- Contribute to company's house views, and publish quarterly market reports [(https://git.io/JD80m)](https://git.io/JD80m)  
+
+
+
+Internship Experience {data-icon=pencil-alt}
+--------------------------------------------------------------------------------
+
+### Business Consulting and Advisory Executive
+
+Business Intelligence and 8nalytics Pte Ltd
+
+N/A
+
+2017 May - 2017 Jul
+
+- Conducted private company valuation using Discounted Cash Flow analysis
+- Assisted in working capital budgeting for private companies
+
+
+### Business Executive
+
+Wine Epicure Pte Ltd
+
+N/A
+
+2016 May - 2016 Jul
+
+
+- Conducted market research into current trends in the Blue Chip wine industry
+- Performed data reconciliation and verification of current inventories
+
+
+Disclaimer {#disclaimer style="width: var(--sidebar-width); padding-left: var(--sidebar-horizontal-padding);"}
+--------------------------------------------------------------------------------
+
+This CV was made with R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r format(Sys.Date(), '%d %b %Y')`.
