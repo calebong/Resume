@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     css: 
-      - resume.css         # OVERIDE CERTAIN FUNCTIONS OF CSS
+      - resume.css         # OVERIDE CERTAIN FUNCTIONS OF CSS # Creator and maintainer of options gamma data models to quantify dealer market gamma exposure for market risk monitoring [(https://git.io/JD8Rw)](https://git.io/JD8Rw)
       - resume               # DEFAULT FILE
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
@@ -21,50 +21,101 @@ Aside
 
 - <i class="fa fa-envelope"></i> calebongjunyi@gmail.com
 - <i class="fa fa-phone"></i> [+65 9220 6931](\\)
-- <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/caleb-ong-frm-caia)
-- <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/calebong)
+- <i class="fa fa-github" aria-hidden="true"></i> [GitHub Portfolio: https://calebong.github.io](https://calebong.github.io/)
+- <i class="fa fa-linkedin"></i> [LinkedIn: https://www.linkedin.com/in/cojy](https://www.linkedin.com/in/cojy)
 
-For more information, please feel free to reach out.
-
+<font size="2">Certifications</font> {#skills}
+--------------------------------------------------------------------------------
+  - Chartered Financial Analyst (CFA)
+  - Financial Risk Manager (FRM)
+  - Chartered Alternative Investment Analyst (CAIA)
+  
 <font size="2">Proficiencies</font> {#skills}
 --------------------------------------------------------------------------------
-
-* <i class="fa fa-keyboard"></i> Programming Languages:
+* Programming Languages:
   - R 
   
-* <i class="fa fa-database"></i> Data Analysis Skills:
+* Data Analysis Skills:
   - Data Extraction
-  - Data Manipulation
+  - Data Wrangling
   - Data Visualization
-  - Large Datasets Handling
-  - Web Data Scraping
-  - Sentiment Analysis
+  - Large Dataset Handling
   
-* <i class="fa fa-wrench"></i> Quantitative Skills:
+* Quantitative Skills:
   - Statistical Modelling
-  - Portfolio Optimization
-  - Performance Attribution
-  - Monte Carlo Simulation
   - Time Series Analysis
-  - GARCH Modelling
   
+* ML Frameworks:
+  - Tidymodels/caret
+  - TensorFlow/Keras (via R API)
   
-* <i class="fa fa-desktop"></i> Software Applications:
+* Software Systems:
   - RStudio IDE
+  - Aladdin (BlackRock)
   - Bloomberg 
   - FE FundInfo
 
 Main
 ================================================================================
 
-<font size="4">Caleb Ong Jun Yi, FRM, CAIA</font> {#title}
+<font size="4">Caleb Ong Jun Yi, CFA, FRM, CAIA</font> {#title}
 --------------------------------------------------------------------------------
 
-### Experienced in investment and financial data analytics and analysis.
+### Assistant Manager, Investment Risk Management at Eastspring Investments (Singapore) Limited
 
-- Chartered Financial Analyst (CFA®) Program – Passed Level II, Level III candidate (exam date: Nov 2021)
-- Financial Risk Manager (FRM)
-- Chartered Alternative Investment Analyst (CAIA)
+#### Eastspring Investments manages approximately SGD $200B of assets worldwide. Eastspring Investments is a wholly-owned subsidiary of Prudential plc, a publicly traded holding company incorporated in the United Kingdom ("UK Parent"). Its UK Parent and its affiliated companies constitute one of the world's leading financial services groups. It provides insurance and financial services directly and through its global subsidiaries and affiliates.
+
+### Personal Strengths:
+- Experienced in exploring and developing new ways to work with data relating to financial modelling and investment research
+- Adept in implementing descriptive and predictive analytical methods to contribute investment and financial specialist knowledge as a subject matter expert
+- Skilled in R programming
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Assistant Manager, Investment Risk Management
+
+Eastspring Investments (Singapore) Limited
+
+N/A
+
+2022 Apr - Present
+
+- Research, develop, and support the adoption of data analytics and business intelligence tools and technologies to create an insight-driven model for investment risk management
+- Assist in investment risk model research and implementation, as well as data exploration, cleaning, and processing for model building
+- Provide quantitative and qualitative research and support to senior managers/directors on portfolio risk reviews and market analyses
+- Provide support in statistical research on risk related projects to satisfy regulatory/internal requirements
+- Identify problems and provide solutions via data processing and visualization
+- Design data workflows and build data pipelines to industrialize data and quantitative reporting solutions
+
+#### Key Projects/Responsibilities
+
+- Front-end application development (RShiny); creator and maintainer of web applications and dashboards for performance and risk analytics (performance metrics, risk factor decomposition, liquidity analytics)
+- Implement market/macro predictive analytics to identify forward-looking potential areas of concern in financial markets
+- Implement unsupervised clustering ML techniques to identify poor/neutral/good performing funds for internal review and deep-dives
+- Creator and maintainer of scripts to perform VaR model validation and backtesting of portfolio ex-ante risk and realized returns 
+
+### Investment Analyst
+
+PromiseLand Independent Financial Advisers
+
+N/A
+
+2018 Sep - 2022 Apr
+
+- Worked directly with the Investment Director to oversee AUA of over SGD $250M
+- Conducted research on global markets to identify thematic investment ideas and strategies for investment products (ETFs, Unit Trusts, Stocks)
+- Formulated investment insights that incorporate market updates, market risk analyses, and market forecasts
+- Conducted portfolio optimization across multiple and within single asset classes, subject to investment objectives and constraints
+- Co-managed the company’s portfolio allocation model (globally diversified synthetic Fund-of-Funds)
+
+
+#### Key Projects/Responsibilities
+
+- Created and maintained systematic, bottom-up fundamental financial models to forecast target prices of US listed equities [(https://git.io/JDN9a)](https://git.io/JDN9a)
+- Created and maintained econometric models to forecast market and sector trends [(https://git.io/JDN9r)](https://git.io/JDN9r)
+- Created and maintained of currency forecasting models to forecast currency trends [(https://git.io/JDN9y)](https://git.io/JDN9y)
+- Contributed to company's house views, and published market commentaries [(https://git.io/JD80m)](https://git.io/JD80m)  
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -77,38 +128,15 @@ N/A
 
 2015 Jul - 2018 Jul
 
-- Attained the Nanyang Business School Professional Attachment Book Prize in 2017 for best overall performance for the degree of
-Bachelor of Accountancy
+- Attained the NBS Professional Attachment Book Prize in 2017
 
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
+### GCE "A" Levels
 
-### Investment Data Analyst
-
-PromiseLand Independent Financial Advisers Pte Ltd
+Anderson Junior College
 
 N/A
 
-2018 Sep - Present
-
-- Explore and develop new ways to work with data relating to financial modelling and investment research
-- Contribute investment and financial specialist knowledge as a subject matter expert where required, using data driven approaches
-- Conduct research on global markets to identify thematic investment ideas and strategies for investment products (ETFs, Unit Trusts, Stocks)
-- Formulate investment insights that incorporate market updates, market risk analyses, and house views
-- Work directly with the Director of Investments in overseeing AUA of over SGD $250M
-- Conduct portfolio optimization across multiple and within single asset classes, subject to investment objectives and constraints
-- Co-manage the company’s portfolio allocation model (globally diversified synthetic Fund-of-Funds)
-
-
-#### Key Projects/Responsibilities
-
-
-- Creator and maintainer of proprietary bottom-up fundamental financial models to set target prices of US listed equities [(https://git.io/JD8RZ)](https://git.io/JD8RZ)
-- Creator and maintainer of econometric models to forecast market and sector trends [(https://git.io/JD8Bo)](https://git.io/JD8Bo)
-- Creator and maintainer of options gamma data models to quantify dealer market gamma exposure for market risk monitoring [(https://git.io/JD8Rw)](https://git.io/JD8Rw)
-- Contribute to company's house views, and publish quarterly market reports [(https://git.io/JD80m)](https://git.io/JD80m)  
-
-
+2011 Jan - 2012 Dec
 
 Internship Experience {data-icon=pencil-alt}
 --------------------------------------------------------------------------------
@@ -140,7 +168,5 @@ N/A
 
 Disclaimer {#disclaimer style="width: var(--sidebar-width); padding-left: var(--sidebar-horizontal-padding);"}
 --------------------------------------------------------------------------------
-
-This CV was made with R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r format(Sys.Date(), '%d %b %Y')`.
