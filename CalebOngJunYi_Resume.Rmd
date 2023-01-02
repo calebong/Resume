@@ -35,18 +35,16 @@ Aside
 * Programming Languages:
   - R 
   
-* Data Analysis Skills:
+* Data Analysis:
   - Data Extraction
   - Data Wrangling
   - Data Visualization
   - Large Dataset Handling
-  
-* Quantitative Skills:
   - Statistical Modelling
-  - Time Series Analysis
   
 * ML Frameworks:
-  - Tidymodels/caret
+  - Tidymodels
+  - H2O
   - TensorFlow/Keras (via R API)
   
 * Software Systems:
@@ -68,7 +66,7 @@ Main
 ### Personal Strengths:
 - Experienced in exploring and developing new ways to work with data relating to financial modelling and investment research
 - Adept in implementing descriptive and predictive analytical methods to contribute investment and financial specialist knowledge as a subject matter expert
-- Skilled in R programming
+- Skilled in R programming for data modelling and investment analytics
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -83,17 +81,19 @@ N/A
 
 - Research, develop, and support the adoption of data analytics and business intelligence tools and technologies to create an insight-driven model for investment risk management
 - Assist in investment risk model research and implementation, as well as data exploration, cleaning, and processing for model building
-- Provide quantitative and qualitative research and support to senior managers/directors on portfolio risk reviews and market analyses
-- Provide support in statistical research on risk related projects to satisfy regulatory/internal requirements
-- Identify problems and provide solutions via data processing and visualization
+- Provide support on statistical research on risk related projects to satisfy regulatory and internal requirements
+- Provide quantitative and qualitative research and support to senior managers and directors on portfolio risk reviews and market analyses
 - Design data workflows and build data pipelines to industrialize data and quantitative reporting solutions
+- Identify problems and provide solutions via data processing and visualization
 
 #### Key Projects/Responsibilities
 
-- Front-end application development (RShiny); creator and maintainer of web applications and dashboards for performance and risk analytics (performance metrics, risk factor decomposition, liquidity analytics)
-- Implement market/macro predictive analytics to identify forward-looking potential areas of concern in financial markets
-- Implement unsupervised clustering ML techniques to identify poor/neutral/good performing funds for internal review and deep-dives
-- Creator and maintainer of scripts to perform VaR model validation and backtesting of portfolio ex-ante risk and realized returns 
+- Front-end application development (RShiny); creator and maintainer of web applications and dashboards for performance and risk analytics (performance metrics, risk factor decomposition, portfolio analytics, liquidity analytics)
+- Research on market/macro predictive analytics to identify forward-looking early warning risk indicators
+- Research on unsupervised clustering ML techniques to classify poor/neutral/good performing portfolios for internal review and deep-dives
+- Create framework and scripts to execute VaR model validation and backtesting of portfolio ex-ante risk and realized returns 
+- Assess the appropriateness of using benchmark constituents versus portfolio underlying securities to compute swing factors for fixed income portfolios
+- Assess the appropriateness of using full bid-ask spreads versus half bid-ask spreads to determine swing factors for fixed income portfolios
 
 ### Investment Analyst
 
@@ -103,7 +103,7 @@ N/A
 
 2018 Sep - 2022 Apr
 
-- Worked directly with the Investment Director to oversee AUA of over SGD $250M
+- Worked directly with the Director, Head of Investments to oversee AUA of over SGD $250M
 - Conducted research on global markets to identify thematic investment ideas and strategies for investment products (ETFs, Unit Trusts, Stocks)
 - Formulated investment insights that incorporate market updates, market risk analyses, and market forecasts
 - Conducted portfolio optimization across multiple and within single asset classes, subject to investment objectives and constraints
@@ -114,7 +114,7 @@ N/A
 
 - Created and maintained systematic, bottom-up fundamental financial models to forecast target prices of US listed equities [(https://git.io/JDN9a)](https://git.io/JDN9a)
 - Created and maintained econometric models to forecast market and sector trends [(https://git.io/JDN9r)](https://git.io/JDN9r)
-- Created and maintained of currency forecasting models to forecast currency trends [(https://git.io/JDN9y)](https://git.io/JDN9y)
+- Created and maintained currency forecasting models to forecast currency trends [(https://git.io/JDN9y)](https://git.io/JDN9y)
 - Contributed to company's house views, and published market commentaries [(https://git.io/JD80m)](https://git.io/JD80m)  
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -138,10 +138,10 @@ N/A
 
 2011 Jan - 2012 Dec
 
-Internship Experience {data-icon=pencil-alt}
+Miscellaneous Experience {data-icon=pencil-alt}
 --------------------------------------------------------------------------------
 
-### Business Consulting and Advisory Executive
+### Business Consulting and Advisory Executive (Internship)
 
 Business Intelligence and 8nalytics Pte Ltd
 
@@ -153,17 +153,17 @@ N/A
 - Assisted in working capital budgeting for private companies
 
 
-### Business Executive
+### Co-Founder
 
 Wine Epicure Pte Ltd
 
 N/A
 
-2016 May - 2016 Jul
+2016 May - Present
 
 
-- Conducted market research into current trends in the Blue Chip wine industry
-- Performed data reconciliation and verification of current inventories
+- Importing and distribution of wines
+
 
 
 Disclaimer {#disclaimer style="width: var(--sidebar-width); padding-left: var(--sidebar-horizontal-padding);"}
